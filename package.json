@@ -1,0 +1,21 @@
+{
+  "name": "random-message-generator",
+  "version": "1.0.0",
+  "description": "A random message generator that outputs a new message every time the program runs.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafMat98/Codecademy_random_messages.git"
+  },
+  "keywords": ["random", "message", "generator"],
+  "author": "RafMat98",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RafMat98/Codecademy_random_messages/issues"
+  },
+  "homepage": "https://github.com/RafMat98/Codecademy_random_messages#readme"
+}
