@@ -26,3 +26,4 @@ It’s a beginner-friendly project designed to build comfort with the software d
 ```bash
 git clone https://github.com/RafMat98/Codecademy_random_messages.git
 cd Codecademy_random_messages
+npm start
